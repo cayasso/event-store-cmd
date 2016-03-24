@@ -1,6 +1,6 @@
 {
   "name": "event-store-cmd",
-  "version": "0.2.2",
+  "version": "0.1.0",
   "description": "Entity abstract class for handling incoming event-store commands.",
   "author": {
     "name": "Jonathan Brumley",
